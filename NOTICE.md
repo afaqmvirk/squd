@@ -38,6 +38,6 @@ one opening. No lyrics, original audio, remote scripts, or model-generated notes
 are used. Missing, unavailable, oversized, or unplayable scores are refused.
 
 The public derived index and title catalog are available in the
-[Squd archive release](https://github.com/afaqmvirk/squd/releases/tag/squd-discover-0eaecb5-v1).
+[Squd music assets](https://github.com/afaqmvirk/squd/tree/main/assets).
 Their exact sizes and checksums are recorded in `discover-manifest.json` beside this notice. The source archive is pinned above.
 The full MIDI archive remains on its existing Hugging Face host.

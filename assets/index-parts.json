@@ -1,0 +1,56 @@
+[
+  {
+    "file": "index-000.bin",
+    "offset": 0,
+    "bytes": 33554432,
+    "sha256": "56e4345fe853536f8b9b63913b70125b8fdb9ce0e8702663cc67af9afb98ebe5"
+  },
+  {
+    "file": "index-001.bin",
+    "offset": 33554432,
+    "bytes": 33554432,
+    "sha256": "daf99bf65c3043248856e65fbcb46a02b4ce4d41819babac701e9e03f950afc9"
+  },
+  {
+    "file": "index-002.bin",
+    "offset": 67108864,
+    "bytes": 33554432,
+    "sha256": "8ca50c5d3e59864a6bc949ff029b5712034862219c5a4b3164d9f37bd69b0cdb"
+  },
+  {
+    "file": "index-003.bin",
+    "offset": 100663296,
+    "bytes": 33554432,
+    "sha256": "62f745e0f5626e4f106f52a61535491c1ed4be94ed44da4af6743fda15c9c2c9"
+  },
+  {
+    "file": "index-004.bin",
+    "offset": 134217728,
+    "bytes": 33554432,
+    "sha256": "8b6241079d933e4451a367447557b66bbc79f76b25419f80fdb24dbc5fcfcde1"
+  },
+  {
+    "file": "index-005.bin",
+    "offset": 167772160,
+    "bytes": 33554432,
+    "sha256": "4bcc91ea5b8492ee1eb2e4f716ebd3552465553a0011a52088be606c14002492"
+  },
+  {
+    "file": "index-006.bin",
+    "offset": 201326592,
+    "bytes": 33554432,
+    "sha256": "5636490fdccededab76a5d098054582e26140e1c22e4f5ebc84e8a3e4fd15e12"
+  },
+  {
+    "file": "index-007.bin",
+    "offset": 234881024,
+    "bytes": 33554432,
+    "sha256": "6cda87a47cace02f27a2d1270355bb5983203a0dabdee9b0617b13f7a045ce2b"
+  },
+  {
+    "file": "index-008.bin",
+    "offset": 268435456,
+    "bytes": 4603448,
+    "sha256": "c78ecd7adc933072236b908c56801d66331edfadc313f2e8405dd0b1bc9861c8"
+  }
+]
