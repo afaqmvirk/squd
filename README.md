@@ -4,7 +4,7 @@ Public, checksum-pinned song metadata and seek indexes used by Overlord Squd.
 The website and Discord bot implementation remain in their existing private repository.
 No credentials, Discord messages or applicant data are included here.
 
-Download the two assets from [the pinned release](https://github.com/afaqmvirk/squd-music-assets/releases/tag/squd-discover-0eaecb5-v1):
+Download the two assets from [the pinned release](https://github.com/afaqmvirk/squd/releases/tag/squd-discover-0eaecb5-v1):
 
 - `catalog.sqlite.gz`: 39,832,381 bytes; a searchable catalog of 586,297 named MIDI files and 152,057 normalized title labels.
 - `discover-index.bin`: 273,038,904 bytes; bounded-range access to 6,747,346 MIDI files in the upstream archive.
